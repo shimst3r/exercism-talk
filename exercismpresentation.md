@@ -15,7 +15,7 @@ footer: Nils Müller, real,- Digital Payment & Technology Services GmbH
 
 - 31 years old
 - started coding at 26 
-- Gopher for ~ 1 year
+- Gopher for about 1 year
 - live in Bielefeld[^1], Germany
 - love Japanese curry :curry:
 
@@ -23,14 +23,43 @@ footer: Nils Müller, real,- Digital Payment & Technology Services GmbH
 
 ---
 
-# Exercism
-
 ![](exercismlogo.png)
 
 ---
 
 > Exercism is an online coding platform that offers code practice and mentorship.
 -- [Wikipedia](https://en.wikipedia.org/wiki/Exercism)
+
+---
+
+# [fit] **TODO**
+
+## How can I relate these slides more to **my own** experiences rather than summing stuff up?
+
+---
+
+# As a Mentee
+
+- Is exercism the right platform for me?
+  -> it is great for learning your **second** language
+  -> requires some experience with using the command line
+
+---
+
+# As a Mentee
+
+- learning new languages is difficult because you have to **unlearn** a lot in order to gain idiomatic proficiency
+  -> exercism mentors help with this
+- comparing your solutions to those of other mentees (and reading the related discussions) helps **a lot**
+
+---
+
+# As a Mentee
+
+- working on your own machine, using your own tools
+- connects to mentors you otherwise might not have access to
+- lets you explore in a safe environment
+- teaches test-driven development
 
 ---
 
@@ -48,18 +77,9 @@ footer: Nils Müller, real,- Digital Payment & Technology Services GmbH
 
 ---
 
-# As a Mentee
-
-- well documented
-- working on your own machine, using your own tools
-- connects to mentors you otherwise might not have access to
-- lets you explore in a safe environment
-- teaches test-driven development
-
----
-
 # As a Mentor
 
+- being able to identify with the values and mission statement
 - lets you leverage your skills by helping many mentees at once
 - easy entry because of community mentor notes
 - recap core concepts
