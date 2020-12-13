@@ -1,29 +1,54 @@
 autoscale: true
-footer: Nils Müller, real,- Digital Payment & Technology Services GmbH
 
 # [fit] exercism.io 
 
 # [fit] One Platform, Three Perspectives
 
+[.footer: Nils Müller, real,- Digital Payment & Technology Services GmbH]
+
 ---
 
 # About Me
 
-![](me.jpeg)
+---
+
+![](img/me.jpeg)
+
+# I am 31 years old, started coding at 26, became a Gopher about 1 year ago.
+
+[.footer: Photo by [Jeanette Skwara](https://www.xing.com/profile/Jeanette_Skwara)]
 
 ---
 
-- 31 years old
-- started coding at 26 
-- Gopher for about 1 year
-- live in Bielefeld[^1], Germany
-- love Japanese curry :curry:
+![](img/kevin-buckert-bielefeld.jpg)
 
-[^1]: Yes, it exists.
+# [fit] I live in Bielefeld, Germany.
+
+[.footer: Photo by [Kevin Bückert](https://unsplash.com/@kwinmedia?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/city-bielefeld?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText)]
+
 
 ---
 
-![](exercismlogo.png)
+![fit](img/vegan-curry.jpg)
+
+# [fit] I love Japanese curry. :curry:
+
+[.footer: Photo by [justonecookbook.com](https://www.justonecookbook.com/vegetarian-japanese-curry/)]
+
+---
+
+# [fit] Agenda
+
+1. What is exercism.io?
+1. As a Mentee
+1. As a Mentor
+1. As a Team
+
+---
+
+![](img/exercismlogo.png)
+
+[.footer: Logo by [Exercism](https://assets.exercism.io/social/general.png)]
 
 ---
 
@@ -32,34 +57,60 @@ footer: Nils Müller, real,- Digital Payment & Technology Services GmbH
 
 ---
 
-# [fit] **TODO**
-
-## How can I relate these slides more to **my own** experiences rather than summing stuff up?
+# Where other online coding platforms are about challenges and competition, Exercism focusses on **community and compassion**.
 
 ---
 
-# As a Mentee
+# [fit] Exercism has
 
-- Is exercism the right platform for me?
-  -> it is great for learning your **second** language
-  -> requires some experience with using the command line
+- A community of **330k users** in **200 countries**
+- A group of **2.5k mentors** in **29 timezones**
+- A variety of curated exercises in **50 programming languages**
 
----
-
-# As a Mentee
-
-- learning new languages is difficult because you have to **unlearn** a lot in order to gain idiomatic proficiency
-  -> exercism mentors help with this
-- comparing your solutions to those of other mentees (and reading the related discussions) helps **a lot**
+[.footer: Source [Exercism](https://exercism.io/about)]
 
 ---
 
-# As a Mentee
+# [fit] As a Mentee
 
-- working on your own machine, using your own tools
-- connects to mentors you otherwise might not have access to
-- lets you explore in a safe environment
-- teaches test-driven development
+---
+
+# I grew up learning new things being **on my own** and with **long feedback loops**.
+
+---
+
+# After finding out about online coding platforms, I often ditched learning a language **idiomatically** in favour of **performance** and **leader boards**.
+
+---
+
+# You often have to **unlearn old habits** in order to write **idiomatic code** when learning a **new language**.
+---
+
+# Exercism and its short feedback loop based on **human mentors** and **test-driven development** provides for a welcome change. 
+
+---
+
+# Is Exercism the **right platform** for me?
+
+---
+
+# It is great for learning your **second language**, as the exercises do not teach **programming concepts** explicitly.
+
+---
+
+# In addition, you should be comfortable using the **command line**.
+
+---
+
+# [fit] As a Mentor
+
+---
+
+# After being a **teaching assistant** at university, I wanted to keep on mentoring, but **didn't have the time** for in-person classes.
+
+---
+
+# I was looking for an **open community** where I could help mentoring **all people**, regardless of their backgrounds.
 
 ---
 
