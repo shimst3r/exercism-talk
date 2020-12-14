@@ -57,7 +57,11 @@ autoscale: true
 
 ---
 
+![](img/tim-gouw-racetrack.jpg)
+
 # Where other online coding platforms are about challenges and competition, Exercism focusses on **community and compassion**.
+
+[.footer: Photo by [Tim Gouw](https://unsplash.com/@punttim?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText) on [Unsplash](https://unsplash.com/?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText)]
 
 ---
 
@@ -75,30 +79,58 @@ autoscale: true
 
 ---
 
-# I grew up learning new things being **on my own** and with **long feedback loops**.
+![](img/iana-dmytrenko-learning-child.jpg)
+
+# I grew up learning new things **on my own** and with **long feedback loops**.
+
+[.footer: Photo by [Iana Dmytrenko](https://unsplash.com/@yasya?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/learning-child?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText)]
 
 ---
+
+![](img/sigmund-leaderboard.jpg)
 
 # After finding out about online coding platforms, I often ditched learning a language **idiomatically** in favour of **performance** and **leader boards**.
 
+[.footer: Photo by [Sigmuned](https://unsplash.com/@sigmund?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/leaderboard?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText)]
+
 ---
 
+![](img/prophsee-journals-habits.jpg)
+
 # You often have to **unlearn old habits** in order to write **idiomatic code** when learning a **new language**.
+
+[.footer: Photo by [Prophsee Journals](https://unsplash.com/@prophsee?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/habit?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText)]
+
 ---
+
+![](img/joshua-ness-mentor.jpg)
 
 # Exercism and its short feedback loop based on **human mentors** and **test-driven development** provides for a welcome change. 
 
+[.footer: Photo by [Joshua Ness](https://unsplash.com/@theexplorerdad?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/human-mentor?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText)]
+
 ---
+
+![](img/juan-rumimpunu-thinking.jpg)
 
 # Is Exercism the **right platform** for me?
 
+[.footer: Photo by [Juan Rumimpunu](https://unsplash.com/@earbiscuits?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/thinking?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText)]
 ---
+
+![](img/kelly-sikkema-second.jpg)
 
 # It is great for learning your **second language**, as the exercises do not teach **programming concepts** explicitly.
 
+[.footer: Photo by [Kelly Sikkema](https://unsplash.com/@kellysikkema?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/second?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText)]
+
 ---
 
+![](img/kevin-horvat-linux.jpg)
+
 # In addition, you should be comfortable using the **command line**.
+
+[.footer: Photo by [Kevin Horvat](https://unsplash.com/@hidd3n?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/linux?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText)]
 
 ---
 
@@ -106,7 +138,11 @@ autoscale: true
 
 ---
 
+![](img/shubhan-sharan-teaching.jpg)
+
 # After being a **teaching assistant** at university, I wanted to keep on mentoring, but **didn't have the time** for in-person classes.
+
+[.footer: Photo by [Shubham Sharan](https://unsplash.com/@shubhamsharan?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/university-students?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText)]
 
 ---
 
@@ -114,28 +150,26 @@ autoscale: true
 
 ---
 
-# Mission Statement
-
-> To enable anyone to achieve fluency in any programming language for free, in order to give opportunity to all and improve the quality of software development worldwide.
--- [exercism.io](https://exercism.io/values)
+# These guiding principles are closely resembled by Exercism's **value proposition**:
 
 ---
 
-# Values
+# Value Proposition
 
 > We envision a world where anyone from any background can become fluent in any programming language for free. Through programming exercises, resources and a safe and nurturing community.
 -- [exercism.io](https://exercism.io/values)
 
 ---
 
-# As a Mentor
+# Mentoring on Exercism is a great way of becoming a **better developer** and a **humble teacher**.
 
-- being able to identify with the values and mission statement
-- lets you leverage your skills by helping many mentees at once
-- easy entry because of community mentor notes
-- recap core concepts
-- get to know different view points, learn from mistakes you might've not made yourself
-- help at your own pace without being rushed (compared to classroom setting)
+---
+
+# Because of great **community mentor notes**, the entry is quite **easy**.
+
+---
+
+# Help people **asynchronously** at your **own pace**.
 
 ---
 
