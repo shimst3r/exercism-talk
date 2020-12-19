@@ -19,3 +19,10 @@
 - recap core concepts
 - get to know different view points, learn from mistakes you might've not made yourself
 - help at your own pace without being rushed (compared to classroom setting)
+
+# As a Team
+
+- I introduced Exercism in my product area for remote code dojos
+- convenient infrastructure for async discussion
+- lots of tasks at different levels
+- clearly defined tasks allow to concentrate on solving instead of discussing surrounding conditions

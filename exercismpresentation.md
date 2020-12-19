@@ -8,13 +8,21 @@ autoscale: true
 
 ---
 
-# About Me
+# [fit] About Me
 
 ---
 
 ![](img/me.jpeg)
 
 # I am 31 years old, started coding at 26, became a Gopher about 1 year ago.
+
+[.footer: Photo by [Jeanette Skwara](https://www.xing.com/profile/Jeanette_Skwara)]
+
+---
+
+![](img/me.jpeg)
+
+# You can find me as [`@shimst3r`](https://twitter.com/shimst3r) on Twitter and GitHub. Please reach out. :wave:
 
 [.footer: Photo by [Jeanette Skwara](https://www.xing.com/profile/Jeanette_Skwara)]
 
@@ -34,6 +42,16 @@ autoscale: true
 # [fit] I love Japanese curry. :curry:
 
 [.footer: Photo by [justonecookbook.com](https://www.justonecookbook.com/vegetarian-japanese-curry/)]
+
+---
+
+![fit](img/gotime-logo.png)
+
+# [fit] I really enjoy Go Time.[^1]
+
+[^1]: Unpopular opinion: Mat Ryer is quite funny honestly.
+
+[.footer: Logo by [Changelog](https://changelog.com/gotime)]
 
 ---
 
@@ -173,12 +191,17 @@ autoscale: true
 
 ---
 
-## As a Team
+# As a Team
 
-- I introduced Exercism in my product area for remote code dojos
-- convenient infrastructure for async discussion
-- lots of tasks at different levels
-- clearly defined tasks allow to concentrate on solving instead of discussing surrounding conditions
+---
+
+![fit](img/real-digital-remote-first.jpg)
+
+# In August 2020, real.digital[^2] decided to go **remote-first**.
+
+[^2]: [We are hiring](https://www.real-digital.de/team/tech/)! 
+
+[.footer: Image by [real.digital](https://www.real-digital.de/blog/allgemein/real-digital-wird-zur-remote-first-company/)]
 
 ---
 
