@@ -37,6 +37,12 @@ autoscale: true
 
 ---
 
+# I am an infrastructure engineer at real.digital[^1].
+
+[^1]: [We are hiring](https://www.real-digital.de/team/tech/)! 
+
+---
+
 ![fit](img/vegan-curry.jpg)
 
 # [fit] I love Japanese curry. :curry:
@@ -47,9 +53,9 @@ autoscale: true
 
 ![fit](img/gotime-logo.png)
 
-# [fit] I really enjoy Go Time.[^1]
+# [fit] I really enjoy Go Time.[^2]
 
-[^1]: Unpopular opinion: Mat Ryer is quite funny honestly.
+[^2]: Unpopular opinion: Mat Ryer is quite funny honestly.
 
 [.footer: Logo by [Changelog](https://changelog.com/gotime)]
 
@@ -105,14 +111,6 @@ autoscale: true
 
 ---
 
-![](img/sigmund-leaderboard.jpg)
-
-# After finding out about online coding platforms, I often ditched learning a language **idiomatically** in favour of **performance** and **leader boards**.
-
-[.footer: Photo by [Sigmuned](https://unsplash.com/@sigmund?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/leaderboard?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText)]
-
----
-
 ![](img/prophsee-journals-habits.jpg)
 
 # You often have to **unlearn old habits** in order to write **idiomatic code** when learning a **new language**.
@@ -132,8 +130,6 @@ autoscale: true
 ![](img/juan-rumimpunu-thinking.jpg)
 
 # Is Exercism the **right platform** for me?
-
-[.footer: Photo by [Juan Rumimpunu](https://unsplash.com/@earbiscuits?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/thinking?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText)]
 ---
 
 ![](img/kelly-sikkema-second.jpg)
@@ -146,9 +142,19 @@ autoscale: true
 
 ![](img/kevin-horvat-linux.jpg)
 
-# In addition, you should be comfortable using the **command line**.
+# You should be comfortable using the **command line** and setting up **your tooling**.
 
 [.footer: Photo by [Kevin Horvat](https://unsplash.com/@hidd3n?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/linux?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText)]
+
+---
+
+# [fit] Mentee Guide
+
+To get the most out of Exercism:
+
+- Ask you mentors **all the questions**.
+- **Compare your solutions** to those of other mentees.
+- **Explore** the language in the safe environment.
 
 ---
 
@@ -191,17 +197,87 @@ autoscale: true
 
 ---
 
-# As a Team
+# [fit] Mentor Guide
+
+How to be a supportive mentor:
+
+- Be **humble and patient**.
+- Make use of the **community mentor notes**.
+- **Don't rush** yourself!
+
+---
+
+# [fit] As a Team
 
 ---
 
 ![fit](img/real-digital-remote-first.jpg)
 
-# In August 2020, real.digital[^2] decided to go **remote-first**.
-
-[^2]: [We are hiring](https://www.real-digital.de/team/tech/)! 
+# In August 2020, real.digital decided to go **remote-first**.
 
 [.footer: Image by [real.digital](https://www.real-digital.de/blog/allgemein/real-digital-wird-zur-remote-first-company/)]
+
+---
+
+# While this improved a lot of things, it made **knowledge transfer** more difficult.
+
+---
+
+# To counter this, I proposed the format of **remote coding dojos** using Exercism.
+
+---
+
+# [fit] Why Exercism?
+
+- lots of exercises at **different levels of difficulty**
+- **clearly defined** tasks
+- infrastructure for **async discussion**
+
+---
+
+# [fit] How does it work?
+
+---
+
+# Each session has a **theme**, like **algorithms** or **datastructures**.
+
+---
+
+# We start by **introducing** the exercises, with an emphasise on **what to learn** and **what to watch out for**.
+
+---
+
+# Depending on the group size, we work **in pairs** or **as a mob**[^3].
+
+[^3]: See [Code with the Wisdom of the Crowd](https://www.oreilly.com/library/view/code-with-the/9781680506297/)
+
+---
+
+# We set aside **30 minutes** each for **solving the exercises** and **discussing the solutions** afterwards.
+
+---
+
+# **Following** each session, the Exercism platform can be used to **discuss open points**.
+
+---
+
+# [fit] Team Guide
+
+1. Choose a **theme** and pick suiting **exercises**
+3. Emphasise **learning outcomes**
+4. **30 minutes** each of **coding and discussion**
+6. ...
+7. Profit!
+
+---
+
+# [fit] Executive Summary
+
+Exercism is 
+
+- an **open and welcoming** coding platform
+- **benefiting** mentees and mentors alike
+- a great tool for **remote knowledge sharing**
 
 ---
 
