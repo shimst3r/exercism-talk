@@ -144,9 +144,13 @@ autoscale: true
 
 ---
 
+![](img/delaney-van-weights.jpg)
+
 # The **Go track** comes with **109 exercises**[^3] of varying difficulty.
 
 # It starts with **Hello World** and extends your knowledge **little by little**.
+
+[.footer: Photo by [Delaney Van](https://unsplash.com/@delaneyvan?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/dumbbell?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText)]
 
 ---
 
@@ -172,11 +176,19 @@ To get the most out of Exercism:
 
 ---
 
-# I was looking for an **open community** where I could help mentoring **all people**, regardless of their backgrounds.
+![fit](img/viktor-forgacs-open.jpg)
+
+# I was looking for an **open community** where I could help mentoring people **regardless of their backgrounds**.
+
+[.footer: Photo by [Viktor Forgacs](https://unsplash.com/@sonance?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/open?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText)]
 
 ---
 
+![](img/riccardo-annandale-value.jpg)
+
 # These guiding principles are closely resembled by Exercism's **value proposition**:
+
+[.footer: Photo by [Riccardo Annandale](https://unsplash.com/@pavement_special?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/value?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText)]
 
 ---
 
@@ -187,15 +199,27 @@ To get the most out of Exercism:
 
 ---
 
+![](img/oxa-roxa-humble.jpg)
+
 # Mentoring on Exercism is a great way of becoming a **better developer** and a **humble teacher**.
 
+[.footer: Photo by [Oxa Roxa](https://unsplash.com/@oxaroxa?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/humble?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText)]
+
 ---
+
+![](img/david-travis-notes.jpg)
 
 # Great **community mentor notes** are there to help you out when in doubt.
 
+[.footer: Photo by [David Travis](https://unsplash.com/@dtravisphd?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/notes?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText)]
+
 ---
 
+![](img/dmitry-schemelev-pace.jpg)
+
 # Because of the **asynchronous** nature of the platform, you can mentor at your **own pace**.
+
+[.footer: Photo by [Dmitry Schemelev](https://unsplash.com/@enioku?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/walking?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText)]
 
 ---
 
@@ -221,11 +245,19 @@ How to be a supportive mentor:
 
 ---
 
+![](img/markus-winkler-stick.jpg)
+
 # While it made life easier in general, it made **knowledge transfer** more difficult.
+
+[.footer: Photo by [Markus Winkler](https://unsplash.com/@markuswinkler?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/sharing?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText)]
 
 ---
 
+![](img/thao-le-hoang-dojo.jpg)
+
 # To counter this, I proposed the introduction of **remote coding dojos** using Exercism.
+
+[.footer: Photo by [Thao Le Hoang](https://unsplash.com/@h4x0r3?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/martial-arts?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText)]
 
 ---
 
@@ -237,23 +269,43 @@ How to be a supportive mentor:
 
 ---
 
+![](img/kelly-sikkema-instructions.jpg)
+
 # [fit] How does it work?
 
+[.footer: Photo by [Kelly Sikkema](https://unsplash.com/@kellysikkema?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/instruction?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText)]
+
 ---
+
+![](img/yaopey-yong-theme.jpg)
 
 # Each session has a **theme**, like **algorithms** or **datastructures**.
 
+[.footer: Photo by [Yaopey Yong](https://unsplash.com/@yaopey?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/theme?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText)]
+
 ---
+
+![](img/milan-de-clercq-sign.jpg)
 
 # We start by **introducing** the exercises, with an emphasise on what **to learn** and what **to watch out for**.
 
+[.footer: Photo by [Milan De Clercq](https://unsplash.com/@mdc_photography2000?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/watch-out?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText)]
+
 ---
+
+![](img/ratapan-anantawat-crowd.jpg)
 
 # Depending on the group size, we work **in pairs** or **as a mob**[^4].
 
+[.footer: Photo by [Ratapan Anantawat](https://unsplash.com/@rtp_atw?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/shibuya-crossing?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText)]
+
 ---
 
+![](img/marco-leal-timer.jpg)
+
 # We set aside **30 minutes** each for **solving the exercises** and **discussing the solutions** afterwards.
+
+[.footer: Photo by [Marcelo Leal](https://unsplash.com/@marceloleal80?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/timer?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText)]
 
 ---
 
