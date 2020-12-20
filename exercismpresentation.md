@@ -110,14 +110,6 @@ autoscale: true
 
 ---
 
-![](img/prophsee-journals-habits.jpg)
-
-# When I **switched languages**, I had trouble unlearning **old habits**.
-
-[.footer: Photo by [Prophsee Journals](https://unsplash.com/@prophsee?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/habit?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText)]
-
----
-
 ![](img/jukan-tateisi-start.jpg)
 
 # I didn't know **where to start**.
@@ -125,6 +117,14 @@ autoscale: true
 # Or **how**.
 
 [.footer: Photo by [Jukan Tateisi](https://unsplash.com/@tateisimikito?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/start?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText)]
+
+---
+
+![](img/prophsee-journals-habits.jpg)
+
+# As I tried **new languages**, I had trouble unlearning **old habits**.
+
+[.footer: Photo by [Prophsee Journals](https://unsplash.com/@prophsee?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/habit?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText)]
 
 ---
 
@@ -147,30 +147,6 @@ autoscale: true
 # The **Go track** comes with **109 exercises**[^3] of varying difficulty.
 
 # It starts with **Hello World** and extends your knowledge **little by little**.
-
----
-
-![](img/juan-rumimpunu-thinking.jpg)
-
-# Is Exercism the **right platform** for me?
-
-[.footer: Photo by [Juan Rumimpunu](https://unsplash.com/@earbiscuits?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/thinking?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText)]
-
----
-
-![](img/kelly-sikkema-second.jpg)
-
-# It is great for learning your **second language**, as the exercises do not teach **programming concepts** explicitly.
-
-[.footer: Photo by [Kelly Sikkema](https://unsplash.com/@kellysikkema?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/second?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText)]
-
----
-
-![](img/kevin-horvat-linux.jpg)
-
-# You should be comfortable using the **command line** and setting up **your tooling**.
-
-[.footer: Photo by [Kevin Horvat](https://unsplash.com/@hidd3n?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/linux?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText)]
 
 ---
 
