@@ -37,9 +37,9 @@ autoscale: true
 
 ---
 
-# I am an infrastructure engineer at real.digital[^1].
+![](img/real-digital-logo.jpg)
 
-[^1]: [We are hiring](https://www.real-digital.de/team/tech/)! 
+# I am working as an **infrastructure engineer** at real.digital[^1].
 
 ---
 
@@ -55,7 +55,6 @@ autoscale: true
 
 # [fit] I really enjoy Go Time.[^2]
 
-[^2]: Unpopular opinion: Mat Ryer is quite funny honestly.
 
 [.footer: Logo by [Changelog](https://changelog.com/gotime)]
 
@@ -105,7 +104,7 @@ autoscale: true
 
 ![](img/iana-dmytrenko-learning-child.jpg)
 
-# I grew up learning new things **on my own** and with **long feedback loops**.
+# As I got **started with coding**, I was **on my own** and struggled with **long feedback loops**.
 
 [.footer: Photo by [Iana Dmytrenko](https://unsplash.com/@yasya?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/learning-child?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText)]
 
@@ -113,23 +112,50 @@ autoscale: true
 
 ![](img/prophsee-journals-habits.jpg)
 
-# You often have to **unlearn old habits** in order to write **idiomatic code** when learning a **new language**.
+# When I **switched languages**, I had trouble unlearning **old habits**.
 
 [.footer: Photo by [Prophsee Journals](https://unsplash.com/@prophsee?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/habit?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText)]
 
 ---
 
+![](img/jukan-tateisi-start.jpg)
+
+# I didn't know **where to start**.
+
+# Or **how**.
+
+[.footer: Photo by [Jukan Tateisi](https://unsplash.com/@tateisimikito?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/start?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText)]
+
+---
+
 ![](img/joshua-ness-mentor.jpg)
 
-# Exercism and its short feedback loop based on **human mentors** and **test-driven development** provides for a welcome change. 
+# Exercism mentors will **support** you and guide you to **idiomatic code**.
 
 [.footer: Photo by [Joshua Ness](https://unsplash.com/@theexplorerdad?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/human-mentor?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText)]
+
+---
+
+![](img/annie-spratt-test.jpg)
+
+# Each exercise comes with a **test suite** for **immediate feedback**.
+
+[.footer: Photo by [Annie Spratt](https://unsplash.com/@anniespratt?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/test-math?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>)]
+
+---
+
+# The **Go track** comes with **109 exercises**[^3] of varying difficulty.
+
+# It starts with **Hello World** and extends your knowledge **little by little**.
 
 ---
 
 ![](img/juan-rumimpunu-thinking.jpg)
 
 # Is Exercism the **right platform** for me?
+
+[.footer: Photo by [Juan Rumimpunu](https://unsplash.com/@earbiscuits?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/thinking?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText)]
+
 ---
 
 ![](img/kelly-sikkema-second.jpg)
@@ -189,11 +215,11 @@ To get the most out of Exercism:
 
 ---
 
-# Because of great **community mentor notes**, the entry is quite **easy**.
+# Great **community mentor notes** are there to help you out when in doubt.
 
 ---
 
-# Help people **asynchronously** at your **own pace**.
+# Because of the **asynchronous** nature of the platform, you can mentor at your **own pace**.
 
 ---
 
@@ -219,11 +245,11 @@ How to be a supportive mentor:
 
 ---
 
-# While this improved a lot of things, it made **knowledge transfer** more difficult.
+# While it made life easier in general, it made **knowledge transfer** more difficult.
 
 ---
 
-# To counter this, I proposed the format of **remote coding dojos** using Exercism.
+# To counter this, I proposed the introduction of **remote coding dojos** using Exercism.
 
 ---
 
@@ -243,13 +269,11 @@ How to be a supportive mentor:
 
 ---
 
-# We start by **introducing** the exercises, with an emphasise on **what to learn** and **what to watch out for**.
+# We start by **introducing** the exercises, with an emphasise on what **to learn** and what **to watch out for**.
 
 ---
 
-# Depending on the group size, we work **in pairs** or **as a mob**[^3].
-
-[^3]: See [Code with the Wisdom of the Crowd](https://www.oreilly.com/library/view/code-with-the/9781680506297/)
+# Depending on the group size, we work **in pairs** or **as a mob**[^4].
 
 ---
 
@@ -282,3 +306,11 @@ Exercism is
 ---
 
 # [fit] Thank you! :tada:
+
+[^1]: [We are hiring](https://www.real-digital.de/team/tech/)! 
+
+[^2]: Unpopular opinion: Mat Ryer is quite funny.
+
+[^3]: As of Dec 2020
+
+[^4]: See [Code with the Wisdom of the Crowd](https://www.oreilly.com/library/view/code-with-the/9781680506297/)
