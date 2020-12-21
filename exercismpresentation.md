@@ -309,7 +309,11 @@ How to be a supportive mentor:
 
 ---
 
+![](img/akson-discussion.jpg)
+
 # **Following** each session, the Exercism platform can be used to **discuss open points**.
+
+[.footer: Photo by [Akson](https://unsplash.com/@akson?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/discussion?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText)]
 
 ---
 
