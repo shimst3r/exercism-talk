@@ -77,18 +77,10 @@ autoscale: true
 
 ---
 
-![](img/exercismlogo.png)
-
-[.footer: Logo by [Exercism](https://assets.exercism.io/social/general.png)]
-
-^ Let us kick things off with what Exercism is, exactly.
-
----
-
 > Exercism is an online coding platform that offers code practice and mentorship.
 -- [Wikipedia](https://en.wikipedia.org/wiki/Exercism)
 
-^ Quoting Wikipedia:
+^ Let us kick things off with what Exercism is, exactly. Quoting Wikipedia:
 
 ---
 
@@ -147,6 +139,13 @@ autoscale: true
 [.footer: Photo by [Prophsee Journals](https://unsplash.com/@prophsee?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/habit?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText)]
 
 ^ Once I got a bit of confidence with MATLAB, I wanted to look further. By chance I stumbled upon Python and liked it a lot. But my code looked a lot like MATLAB. In addition I didn't know about test-driven development or testing in general and most of my script where pretty flaky.
+
+---
+
+![](img/exercismlogo.png)
+
+[.footer: Logo by [Exercism](https://assets.exercism.io/social/general.png)]
+
 
 ---
 
