@@ -6,25 +6,23 @@ autoscale: true
 
 [.footer: Nils Müller, real,- Digital Payment & Technology Services GmbH]
 
+^ Good evening from Germany. My name is Nils and I am very honored to give the first talk of today's meetup. As some of you, I am not only quite new to Go, but also to giving talks in front of an audience this big. So please bear with me. :bow:
+
 ---
 
 # [fit] About Me
 
----
-
-![](img/me.jpeg)
-
-# I am 31 years old, started coding at 26, became a Gopher about 1 year ago.
-
-[.footer: Photo by [Jeanette Skwara](https://www.xing.com/profile/Jeanette_Skwara)]
+^ Given that this talk is very much about my own experiences, I would like to start with a short introduction of myself.
 
 ---
 
 ![](img/me.jpeg)
 
-# You can find me as [`@shimst3r`](https://twitter.com/shimst3r) on Twitter and GitHub. Please reach out. :wave:
+# I am 31 years old, started coding at 24, became a Gopher about 1 year ago.
 
 [.footer: Photo by [Jeanette Skwara](https://www.xing.com/profile/Jeanette_Skwara)]
+
+^ As you maybe can tell from the picture, I love Star Trek and nature.
 
 ---
 
@@ -34,12 +32,13 @@ autoscale: true
 
 [.footer: Photo by [Kevin Bückert](https://unsplash.com/@kwinmedia?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/city-bielefeld?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText)]
 
-
 ---
 
 ![](img/real-digital-logo.jpg)
 
 # I am working as an **infrastructure engineer** at real.digital[^1].
+
+^ If you are interested in DevOps and want to work with Go, I am happy to answer all your questions.
 
 ---
 
@@ -55,8 +54,15 @@ autoscale: true
 
 # [fit] I really enjoy Go Time.[^2]
 
-
 [.footer: Logo by [Changelog](https://changelog.com/gotime)]
+
+---
+
+![](img/pawel-czerwinski-telephone.jpg)
+
+# You can find me as [`@shimst3r`](https://twitter.com/shimst3r) on Twitter and GitHub. Please reach out. :wave:
+
+[.footer: Photo by [Paweł Czerwiński](https://unsplash.com/@pawel_czerwinski?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/telephone?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText)]
 
 ---
 
@@ -67,16 +73,22 @@ autoscale: true
 1. As a Mentor
 1. As a Team
 
+^ The title of my talk is "exercism.io - One Platform, Three Perspectives". First I will give you some background on Exercism, before I then present you my three perspectives on the platform: as a mentee, as a mentor, and as a team.
+
 ---
 
 ![](img/exercismlogo.png)
 
 [.footer: Logo by [Exercism](https://assets.exercism.io/social/general.png)]
 
+^ Let us kick things off with what Exercism is, exactly.
+
 ---
 
 > Exercism is an online coding platform that offers code practice and mentorship.
 -- [Wikipedia](https://en.wikipedia.org/wiki/Exercism)
+
+^ Quoting Wikipedia:
 
 ---
 
@@ -85,6 +97,8 @@ autoscale: true
 # Where other online coding platforms are about challenges and competition, Exercism focusses on **community and compassion**.
 
 [.footer: Photo by [Tim Gouw](https://unsplash.com/@punttim?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText) on [Unsplash](https://unsplash.com/?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText)]
+
+^ You won't find a public leaderboard on Exercism. Neither will people intentionally obfuscate their results to gain an advantage. Instead you will be welcomed by friendly mentors and lively discussion sections.
 
 ---
 
@@ -100,6 +114,8 @@ autoscale: true
 
 # [fit] As a Mentee
 
+^ Let me now tell you why I settled on Exercism for learning new programming languages and how it helped me learning to write idiomatic Go faster.
+
 ---
 
 ![](img/iana-dmytrenko-learning-child.jpg)
@@ -107,6 +123,8 @@ autoscale: true
 # As I got **started with coding**, I was **on my own** and struggled with **long feedback loops**.
 
 [.footer: Photo by [Iana Dmytrenko](https://unsplash.com/@yasya?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/learning-child?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText)]
+
+^ My first real programming language was MATLAB, which I learned without much guidance in my last year of undergrad studies. Everything confused me. I had to wait a week to get feedback from my maths tutor.
 
 ---
 
@@ -118,6 +136,8 @@ autoscale: true
 
 [.footer: Photo by [Jukan Tateisi](https://unsplash.com/@tateisimikito?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/start?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText)]
 
+^ I didn't really know how to grow as a programmer. I dabbled with a few beginner's tutorials, but didn't know how to continue from there.
+
 ---
 
 ![](img/prophsee-journals-habits.jpg)
@@ -125,6 +145,8 @@ autoscale: true
 # As I tried **new languages**, I had trouble unlearning **old habits**.
 
 [.footer: Photo by [Prophsee Journals](https://unsplash.com/@prophsee?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/habit?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText)]
+
+^ Once I got a bit of confidence with MATLAB, I wanted to look further. By chance I stumbled upon Python and liked it a lot. But my code looked a lot like MATLAB. In addition I didn't know about test-driven development or testing in general and most of my script where pretty flaky.
 
 ---
 
@@ -339,7 +361,7 @@ Exercism is
 
 # [fit] Thank you! :tada:
 
-[^1]: [We are hiring](https://www.real-digital.de/team/tech/)! 
+[^1]: real is [hiring](https://www.real-digital.de/team/tech/)!
 
 [^2]: Unpopular opinion: Mat Ryer is quite funny.
 
