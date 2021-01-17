@@ -6,7 +6,7 @@ autoscale: true
 
 [.footer: Nils Müller, real,- Digital Payment & Technology Services GmbH]
 
-^ Good evening from Germany. My name is Nils and I am very honored to give the first talk of today's meetup. As some of you, I am not only quite new to Go, but also to giving talks in front of an audience this big. So please bear with me. :bow:
+^ Good evening from Germany. My name is Nils and I am very honored to give the first talk **of** today's meetup. As some of you, I am not only quite new to Go, but also to giving talks in front of an audience this big. So please bear with me. :bow:
 
 ---
 
@@ -138,13 +138,15 @@ autoscale: true
 
 [.footer: Photo by [Prophsee Journals](https://unsplash.com/@prophsee?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/habit?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText)]
 
-^ Once I got a bit of confidence with MATLAB, I wanted to look further. By chance I stumbled upon Python and liked it a lot. But my code looked a lot like MATLAB. In addition I didn't know about test-driven development or testing in general and most of my script where pretty flaky.
+^ Once I got a bit of confidence with MATLAB, I wanted to look further. By chance I stumbled upon Python and liked it a lot. But my code looked a lot like MATLAB. Nonetheless my limited coding experience helped me landing my first full-time job.
 
 ---
 
 ![](img/exercismlogo.png)
 
 [.footer: Logo by [Exercism](https://assets.exercism.io/social/general.png)]
+
+^ At my then workplace, a colleague recommended me to use a platform called Exercism. This would help me improving my programming skills a lot. But how?
 
 
 ---
@@ -155,6 +157,8 @@ autoscale: true
 
 [.footer: Photo by [Joshua Ness](https://unsplash.com/@theexplorerdad?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/human-mentor?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText)]
 
+^ Mentors are there to answer your questions and to point out how to write better code. Keep in mind they are volunteers that want you to excel. :smile:
+
 ---
 
 ![](img/annie-spratt-test.jpg)
@@ -162,6 +166,8 @@ autoscale: true
 # Each exercise comes with a **test suite** for **immediate feedback**.
 
 [.footer: Photo by [Annie Spratt](https://unsplash.com/@anniespratt?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/test-math?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>)]
+
+^ When you download an exercise using the Exercism CLI, you will also get a test suite. The tests will help you find a good solution using test-driven development.
 
 ---
 
@@ -172,6 +178,8 @@ autoscale: true
 # It starts with **Hello World** and extends your knowledge **little by little**.
 
 [.footer: Photo by [Delaney Van](https://unsplash.com/@delaneyvan?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/dumbbell?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText)]
+
+^ The exercises cover a lot of ground, including concurrency and data structures.
 
 ---
 
@@ -186,6 +194,8 @@ To get the most out of Exercism:
 ---
 
 # [fit] As a Mentor
+
+^ In the next section I want to tell you why I started mentoring on Exercism and in which ways it profitted me.
 
 ---
 
@@ -218,6 +228,8 @@ To get the most out of Exercism:
 > We envision a world where anyone from any background can become fluent in any programming language for free. Through programming exercises, resources and a safe and nurturing community.
 -- [exercism.io](https://exercism.io/values)
 
+^ As a mentor, it is your main objective to foster this safe and nurturing community. Be compassionate, welcoming, and patient!
+
 ---
 
 ![](img/oxa-roxa-humble.jpg)
@@ -225,6 +237,8 @@ To get the most out of Exercism:
 # Mentoring on Exercism is a great way of becoming a **better developer** and a **humble teacher**.
 
 [.footer: Photo by [Oxa Roxa](https://unsplash.com/@oxaroxa?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/humble?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText)]
+
+^ You will likely see approaches to tasks you would've never thought of. Sometimes these approaches can be a bit off the expected path, so take your time to guide your mentees to an idiomatic solution. :bee:
 
 ---
 
@@ -234,13 +248,17 @@ To get the most out of Exercism:
 
 [.footer: Photo by [David Travis](https://unsplash.com/@dtravisphd?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/notes?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText)]
 
+^ I cannot stress enough how much the mentor notes have helped me: They cover feedback to the most submitted solutions, as well as background information you can share with your mentees.
+
 ---
 
 ![](img/dmitry-schemelev-pace.jpg)
 
 # Because of the **asynchronous** nature of the platform, you can mentor at your **own pace**.
 
-[.footer: Photo by [Dmitry Schemelev](https://unsplash.com/@enioku?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/walking?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText)]
+[.footer: Photo by [Dmitry Schemelev](https://unsplash.com/@enioku?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/walking?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText)
+
+^ You are not expected to respond as soon as possible. You don't have to fulfill a quota to be valid. Just pick a solution from the queue and start mentoring. :smile:
 
 ---
 
@@ -255,6 +273,8 @@ How to be a supportive mentor:
 ---
 
 # [fit] As a Team
+
+^ In the remaining time I want to share with you how we are using Exercism at my company.
 
 ---
 
@@ -272,13 +292,20 @@ How to be a supportive mentor:
 
 [.footer: Photo by [Markus Winkler](https://unsplash.com/@markuswinkler?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/sharing?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText)]
 
+^ Especially the onboarding of new hires requires a different approach compared to colocated teams. Getting into the same pace takes more time and effort.
+
 ---
 
 ![](img/thao-le-hoang-dojo.jpg)
 
-# To counter this, I proposed the introduction of **remote coding dojos** using Exercism.
+# To counter this, I proposed the introduction of **remote coding dojos** using Exercism:
+
+> A Coding Dojo is a meeting where a bunch of coders get **together** to work on a programming **challenge**. They are there to have **fun** and to engage in deliberate practice in order to **improve** their skills.
+-- [codingdojo.org](https://codingdojo.org/WhatIsCodingDojo/)
 
 [.footer: Photo by [Thao Le Hoang](https://unsplash.com/@h4x0r3?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/martial-arts?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText)]
+
+^ We realised quickly that pair programming helped a lot with the previously mentioned difficulties. But while pair programming facilitates the collaboration between two individuals, we wanted to speed up the team as a whole. Therefore we tried coding dojos.
 
 ---
 
