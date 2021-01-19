@@ -6,7 +6,7 @@ autoscale: true
 
 [.footer: Nils Müller, real,- Digital Payment & Technology Services GmbH]
 
-^ Good evening from Germany. My name is Nils and I am very honored to give the first talk **of** today's meetup. As some of you, I am not only quite new to Go, but also to giving talks in front of an audience this big. So please bear with me. :bow:
+^ Good evening from Germany. My name is Nils and I am very honored to give the first talk **of** today's meetup. my talk has the title "Exercism IO - One Platform, Three Perspectives"
 
 ---
 
@@ -22,7 +22,7 @@ autoscale: true
 
 [.footer: Photo by [Jeanette Skwara](https://www.xing.com/profile/Jeanette_Skwara)]
 
-^ As you maybe can tell from the picture, I love Star Trek and nature.
+^ :up: And as you maybe can tell from the picture, I love Star Trek and nature.
 
 ---
 
@@ -38,7 +38,7 @@ autoscale: true
 
 # I am working as an **infrastructure engineer** at real.digital[^1].
 
-^ If you are interested in DevOps and want to work with Go, I am happy to answer all your questions.
+^ :up: If you are interested in DevOps and want to work with Go, I am happy to answer all your questions.
 
 ---
 
@@ -73,14 +73,14 @@ autoscale: true
 1. As a Mentor
 1. As a Team
 
-^ The title of my talk is "exercism.io - One Platform, Three Perspectives". First I will give you some background on Exercism, before I then present you my three perspectives on the platform: as a mentee, as a mentor, and as a team.
+^ First I will give you some background on Exercism, then I present you my three perspectives on the platform: As a mentee, as a mentor, and as a member of a remote team.
 
 ---
 
 > Exercism is an online coding platform that offers code practice and mentorship.
 -- [Wikipedia](https://en.wikipedia.org/wiki/Exercism)
 
-^ Let us kick things off with what Exercism is, exactly. Quoting Wikipedia:
+^ Let us kick things off with what Exercism is, exactly. Quoting Wikipedia: :up:
 
 ---
 
@@ -90,7 +90,7 @@ autoscale: true
 
 [.footer: Photo by [Tim Gouw](https://unsplash.com/@punttim?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText) on [Unsplash](https://unsplash.com/?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText)]
 
-^ You won't find a public leaderboard on Exercism. Neither will people intentionally obfuscate their results to gain an advantage. Instead you will be welcomed by friendly mentors and lively discussion sections.
+^ :up: You won't find a public leaderboard on Exercism. Neither will people intentionally obfuscate their results to gain an advantage. Instead you will be welcomed by friendly mentors and lively discussion sections.
 
 ---
 
@@ -106,7 +106,7 @@ autoscale: true
 
 # [fit] As a Mentee
 
-^ Let me now tell you why I settled on Exercism for learning new programming languages and how it helped me learning to write idiomatic Go faster.
+^ Let me now tell you how I settled on Exercism for learning new programming languages and how it helped me learning to write idiomatic code faster.
 
 ---
 
@@ -116,7 +116,7 @@ autoscale: true
 
 [.footer: Photo by [Iana Dmytrenko](https://unsplash.com/@yasya?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/learning-child?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText)]
 
-^ My first real programming language was MATLAB, which I learned without much guidance in my last year of undergrad studies. Everything confused me. I had to wait a week to get feedback from my maths tutor.
+^ :up: My first real programming language was MATLAB, which I learned without much guidance in my last year of undergrad studies. Everything confused me. I had to wait a week to get feedback from my maths tutor.
 
 ---
 
@@ -128,7 +128,7 @@ autoscale: true
 
 [.footer: Photo by [Jukan Tateisi](https://unsplash.com/@tateisimikito?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/start?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText)]
 
-^ I didn't really know how to grow as a programmer. I dabbled with a few beginner's tutorials, but didn't know how to continue from there.
+^ :up: I didn't really know how to grow as a programmer. I did some tutorials, but didn't know how to continue from there.
 
 ---
 
@@ -138,7 +138,7 @@ autoscale: true
 
 [.footer: Photo by [Prophsee Journals](https://unsplash.com/@prophsee?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/habit?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText)]
 
-^ Once I got a bit of confidence with MATLAB, I wanted to look further. By chance I stumbled upon Python and liked it a lot. But my code looked a lot like MATLAB. Nonetheless my limited coding experience helped me landing my first full-time job.
+^ Once I got a bit of confidence with MATLAB, I wanted to look further. :up: By chance I learned about Python and liked it a lot, so I spent a lot of time reading books and blogs about it. After a few weeks of learning Python, my code still looked a lot like MATLAB. :up:
 
 ---
 
@@ -146,7 +146,7 @@ autoscale: true
 
 [.footer: Logo by [Exercism](https://assets.exercism.io/social/general.png)]
 
-^ At my then workplace, a colleague recommended me to use a platform called Exercism. This would help me improving my programming skills a lot. But how?
+^ At my first job, a colleague recommended me to use a platform called Exercism. This would help me improving my programming skills a lot. But how?
 
 
 ---
@@ -157,7 +157,7 @@ autoscale: true
 
 [.footer: Photo by [Joshua Ness](https://unsplash.com/@theexplorerdad?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/human-mentor?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText)]
 
-^ Mentors are there to answer your questions and to point out how to write better code. Keep in mind they are volunteers that want you to excel. :smile:
+^ Firstly: Mentors! :up: Mentors are there to answer your questions and to point out how to write better code. Keep in mind they are volunteers that want you to excel. :smile:
 
 ---
 
@@ -167,7 +167,7 @@ autoscale: true
 
 [.footer: Photo by [Annie Spratt](https://unsplash.com/@anniespratt?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/test-math?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>)]
 
-^ When you download an exercise using the Exercism CLI, you will also get a test suite. The tests will help you find a good solution using test-driven development.
+^ Secondly: Tests! :up: When you download an exercise using the Exercism CLI, you will also get a test suite. The tests will help you find a working solution using test-driven development.
 
 ---
 
@@ -179,7 +179,7 @@ autoscale: true
 
 [.footer: Photo by [Delaney Van](https://unsplash.com/@delaneyvan?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/dumbbell?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText)]
 
-^ The exercises cover a lot of ground, including concurrency and data structures.
+^ :up: The exercises cover a lot of ground, including concurrency and data structures.
 
 ---
 
@@ -195,7 +195,7 @@ To get the most out of Exercism:
 
 # [fit] As a Mentor
 
-^ In the next section I want to tell you why I started mentoring on Exercism and in which ways it profitted me.
+^ In the next section I want to tell you how mentoring on Exercism profitted me personally.
 
 ---
 
@@ -207,7 +207,7 @@ To get the most out of Exercism:
 
 ---
 
-![fit](img/viktor-forgacs-open.jpg)
+![](img/viktor-forgacs-open.jpg)
 
 # I was looking for an **open community** where I could help mentoring people **regardless of their backgrounds**.
 
@@ -217,18 +217,16 @@ To get the most out of Exercism:
 
 ![](img/riccardo-annandale-value.jpg)
 
-# These guiding principles are closely resembled by Exercism's **value proposition**:
+# These personal guiding principles are reflected by Exercism's **value proposition**:
 
 [.footer: Photo by [Riccardo Annandale](https://unsplash.com/@pavement_special?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/value?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText)]
 
 ---
 
-# Value Proposition
-
-> We envision a world where anyone from any background can become fluent in any programming language for free. Through programming exercises, resources and a safe and nurturing community.
+> We envision a world where **anyone from any background** can become fluent in any programming language for free. Through programming exercises, resources and a **safe and nurturing community**.
 -- [exercism.io](https://exercism.io/values)
 
-^ As a mentor, it is your main objective to foster this safe and nurturing community. Be compassionate, welcoming, and patient!
+^ :up: As a mentor, it is your main objective to foster this safe and nurturing community. Be compassionate, welcoming, and patient!
 
 ---
 
@@ -238,7 +236,7 @@ To get the most out of Exercism:
 
 [.footer: Photo by [Oxa Roxa](https://unsplash.com/@oxaroxa?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/humble?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText)]
 
-^ You will likely see approaches to tasks you would've never thought of. Sometimes these approaches can be a bit off the expected path, so take your time to guide your mentees to an idiomatic solution. :bee:
+^ :up: You will likely see approaches to tasks you would've never thought of. Sometimes these approaches can be a bit unexpected, so take your time to guide your mentees to an idiomatic solution. :bee:
 
 ---
 
@@ -248,7 +246,7 @@ To get the most out of Exercism:
 
 [.footer: Photo by [David Travis](https://unsplash.com/@dtravisphd?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/notes?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText)]
 
-^ I cannot stress enough how much the mentor notes have helped me: They cover feedback to the most submitted solutions, as well as background information you can share with your mentees.
+^ :up: I cannot stress enough how much the mentor notes have helped me: They cover feedback to the most frequently submitted approaches, as well as background information you can share with your mentees.
 
 ---
 
@@ -258,7 +256,7 @@ To get the most out of Exercism:
 
 [.footer: Photo by [Dmitry Schemelev](https://unsplash.com/@enioku?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/walking?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText)
 
-^ You are not expected to respond as soon as possible. You don't have to fulfill a quota to be valid. Just pick a solution from the queue and start mentoring. :smile:
+^ :up: You are not expected to respond as soon as possible. You don't have to fulfill a quota to be valid. Just pick a solution from the queue and start mentoring. :smile:
 
 ---
 
@@ -292,7 +290,7 @@ How to be a supportive mentor:
 
 [.footer: Photo by [Markus Winkler](https://unsplash.com/@markuswinkler?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/sharing?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText)]
 
-^ Especially the onboarding of new hires requires a different approach compared to colocated teams. Getting into the same pace takes more time and effort.
+^ :up: Especially the onboarding of new hires requires a different approach compared to colocated teams. Getting into the same pace takes more time and effort.
 
 ---
 
@@ -305,15 +303,16 @@ How to be a supportive mentor:
 
 [.footer: Photo by [Thao Le Hoang](https://unsplash.com/@h4x0r3?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/martial-arts?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText)]
 
-^ We realised quickly that pair programming helped a lot with the previously mentioned difficulties. But while pair programming facilitates the collaboration between two individuals, we wanted to speed up the team as a whole. Therefore we tried coding dojos.
+^ We realised quickly that pair programming helped with some of the previously mentioned difficulties. But while pair programming facilitated the collaboration between two team members, it didn't work for the whole team. :up:
 
 ---
 
 # [fit] Why Exercism?
 
+- **free** Teams Edition
 - lots of exercises at **different levels of difficulty**
 - **clearly defined** tasks
-- infrastructure for **async discussion**
+- infrastructure for **async discussion** 
 
 ---
 
@@ -323,13 +322,17 @@ How to be a supportive mentor:
 
 [.footer: Photo by [Kelly Sikkema](https://unsplash.com/@kellysikkema?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/instruction?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText)]
 
+^ Approaching Exercism as a team is different compared to using it as an individual user. So :up:
+
 ---
 
 ![](img/yaopey-yong-theme.jpg)
 
-# Each session has a **theme**, like **algorithms** or **datastructures**.
+# Each session has a **theme**, like **algorithms** or **data structures**.
 
 [.footer: Photo by [Yaopey Yong](https://unsplash.com/@yaopey?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/theme?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText)]
+
+^ :up: Depending on the group size, prepare up to three different exercises upfront. The fewer you pick, the more details you can discuss later.
 
 ---
 
@@ -339,6 +342,8 @@ How to be a supportive mentor:
 
 [.footer: Photo by [Milan De Clercq](https://unsplash.com/@mdc_photography2000?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/watch-out?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText)]
 
+^ :up: Balance between spoiling too much and telling too little. Sometimes having a good preparation makes it easier for newbies to choose the exercise that is fitting them best.
+
 ---
 
 ![](img/ratapan-anantawat-crowd.jpg)
@@ -347,13 +352,17 @@ How to be a supportive mentor:
 
 [.footer: Photo by [Ratapan Anantawat](https://unsplash.com/@rtp_atw?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/shibuya-crossing?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText)]
 
+^ :up: Decide this based on your team. If you have introverts in your team, sticking to pair programming might be easier. 
+
 ---
 
 ![](img/marco-leal-timer.jpg)
 
-# We set aside **30 minutes** each for **solving the exercises** and **discussing the solutions** afterwards.
+# We set aside **30 minutes** each for **solving** the exercises and **discussing** the solutions afterwards.
 
 [.footer: Photo by [Marcelo Leal](https://unsplash.com/@marceloleal80?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/timer?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText)]
+
+^ :up: Point out clearly when to rejoin for the discussions. I usually start a timer on my smartphone and announce the remaining time in our Slack channel frequently.
 
 ---
 
@@ -362,6 +371,8 @@ How to be a supportive mentor:
 # **Following** each session, the Exercism platform can be used to **discuss open points**.
 
 [.footer: Photo by [Akson](https://unsplash.com/@akson?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/discussion?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText)]
+
+^ :up: Discussion is the most vital part of a coding dojo. Motivate your team to continue discussing using the Exercism platform.
 
 ---
 
@@ -373,15 +384,19 @@ How to be a supportive mentor:
 6. ...
 7. Profit!
 
+^ To sum it up: :up:
+
 ---
 
 # [fit] Executive Summary
 
 Exercism is 
 
-- an **open and welcoming** coding platform
-- **benefiting** mentees and mentors alike
-- a great tool for **remote knowledge sharing**
+- an **open and welcoming** coding platform.
+- **benefitting** mentees and mentors alike.
+- great for **knowledge sharing** and **team building**.
+
+^ If there are only three points you take away from this talk, these should be: :up:
 
 ---
 
