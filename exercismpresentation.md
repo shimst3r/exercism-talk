@@ -32,6 +32,8 @@ autoscale: true
 
 [.footer: Photo by [Kevin Bückert](https://unsplash.com/@kwinmedia?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/city-bielefeld?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText)]
 
+^ :up: It's a city in the north-west of Germany. It has a population of about 340k and it is the 18th biggest city in Germany.
+
 ---
 
 ![](img/real-digital-logo.jpg)
@@ -48,6 +50,8 @@ autoscale: true
 
 [.footer: Photo by [justonecookbook.com](https://www.justonecookbook.com/vegetarian-japanese-curry/)]
 
+^ :up: To be honest, I like any vegan curry. :smile:
+
 ---
 
 ![fit](img/gotime-logo.png)
@@ -56,13 +60,17 @@ autoscale: true
 
 [.footer: Logo by [Changelog](https://changelog.com/gotime)]
 
+^ :up:
+
 ---
 
 ![](img/pawel-czerwinski-telephone.jpg)
 
-# You can find me as [`@shimst3r`](https://twitter.com/shimst3r) on Twitter and GitHub. Please reach out. :wave:
+# You can find me as [`@shimst3r`](https://twitter.com/shimst3r) on Twitter and GitHub. 
 
 [.footer: Photo by [Paweł Czerwiński](https://unsplash.com/@pawel_czerwinski?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/telephone?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText)]
+
+^ :up: Please reach out. :wave:
 
 ---
 
@@ -73,7 +81,7 @@ autoscale: true
 1. As a Mentor
 1. As a Team
 
-^ First I will give you some background on Exercism, then I present you my three perspectives on the platform: As a mentee, as a mentor, and as a member of a remote team.
+^ My agenda: First I will give you some background on Exercism, then I present you my three perspectives on the platform: As a mentee, as a mentor, and as a member of a remote team.
 
 ---
 
@@ -101,6 +109,8 @@ autoscale: true
 - A variety of curated exercises in **50 programming languages**
 
 [.footer: Source [Exercism](https://exercism.io/about)]
+
+^ :up:
 
 ---
 
@@ -138,7 +148,7 @@ autoscale: true
 
 [.footer: Photo by [Prophsee Journals](https://unsplash.com/@prophsee?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/habit?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText)]
 
-^ Once I got a bit of confidence with MATLAB, I wanted to look further. :up: By chance I learned about Python and liked it a lot, so I spent a lot of time reading books and blogs about it. After a few weeks of learning Python, my code still looked a lot like MATLAB. :up:
+^ Once I got a bit of confidence with MATLAB, I wanted to look further. By chance I learned about Python and liked it a lot, so I spent a lot of time reading books and blogs about it. After a few weeks of learning Python, my code still looked a lot like MATLAB. In general: :up:
 
 ---
 
@@ -187,15 +197,19 @@ autoscale: true
 
 To get the most out of Exercism:
 
-- Ask you mentors **all the questions**.
-- **Compare your solutions** to those of other mentees.
-- **Explore** the language in the safe environment.
+1. Ask you mentors **all the questions**.
+2. **Compare your solutions** to those of other mentees.
+3. **Explore** the language in the safe environment.
+
+^ :up: Even if they are only partially related to the current exercise. 
+:up: You can look at the community solutions for each exercise. Often those with a lot of stars or comments are worth comparing to.
+:up: You don't have to fear anything while experimenting with Exercism.
 
 ---
 
 # [fit] As a Mentor
 
-^ In the next section I want to tell you how mentoring on Exercism profitted me personally.
+^ In the next section I want to tell you how mentoring on Exercism profitted me personally :up:
 
 ---
 
@@ -264,15 +278,19 @@ To get the most out of Exercism:
 
 How to be a supportive mentor:
 
-- Be **humble and patient**.
-- Make use of the **community mentor notes**.
-- **Don't rush** yourself!
+1. Be **humble and patient**.
+2. Make use of the **community mentor notes**.
+3. **Don't rush** yourself!
+
+^ :up: If you are surprised by a solution, don't force it to look like your expected solution immediately. Go with your mentee's approach until it works for both of you.
+:up: If in doubt, check how more experienced mentors have solved teaching this exercise.
+:up: Don't try to mentor 10 mentees at once, especially in the beginning. Go slowly, improve steadily.
 
 ---
 
 # [fit] As a Team
 
-^ In the remaining time I want to share with you how we are using Exercism at my company.
+^ In the remaining time I want to share with you how we are using Exercism at my company :up:
 
 ---
 
@@ -304,15 +322,21 @@ How to be a supportive mentor:
 [.footer: Photo by [Thao Le Hoang](https://unsplash.com/@h4x0r3?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/martial-arts?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText)]
 
 ^ We realised quickly that pair programming helped with some of the previously mentioned difficulties. But while pair programming facilitated the collaboration between two team members, it didn't work for the whole team. :up:
+To quote from codingdojo.org: :up:
 
 ---
 
 # [fit] Why Exercism?
 
-- **free** Teams Edition
-- lots of exercises at **different levels of difficulty**
-- **clearly defined** tasks
-- infrastructure for **async discussion** 
+1.  **free** Teams Edition
+2.  lots of exercises at **different levels of difficulty**
+3.  **clearly defined** tasks
+4.  infrastructure for **async discussion** 
+
+^ :up: The Teams Edition lets your team work in a closed environment. Your solutions and discussions won't be shared with the outside world.
+:up: Reach your team members exactly where they are in their current Go journey.
+:up: Don't waste your time defining the parameters of your exercises
+:up: Continue discussing your solutions even after the synchronous meeting has ended.
 
 ---
 
